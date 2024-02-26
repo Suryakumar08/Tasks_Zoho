@@ -1,0 +1,7 @@
+#My properties in myDir
+#Sat Feb 03 11:00:06 IST 2024
+1=1
+2=2
+3=3
+4=4
+5=5
